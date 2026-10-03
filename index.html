@@ -597,33 +597,39 @@
   
     <!-- Custom Hero & Layout Modernization Styles -->
     <style>
-      .rsABlock {
+      #hero-slider .rsABlock {
         background: rgba(15, 23, 42, 0.85) !important;
+        background-image: none !important;
         color: #ffffff !important;
         padding: 40px !important;
         border-left: 4px solid #c5a971 !important;
         border-radius: 4px !important;
         box-shadow: 0 10px 25px rgba(0,0,0,0.2) !important;
         max-width: 500px !important;
-        left: 5% !important;
-        top: 20% !important;
+        height: auto !important;
+        left: 10% !important;
+        top: 50% !important;
+        transform: translateY(-50%) !important;
+        z-index: 100 !important;
       }
-      .rsABlock h1 {
+      #hero-slider .rsABlock h1 {
         color: #ffffff !important;
         font-weight: 700 !important;
-        margin-bottom: 15px !important;
+        margin: 0 0 15px 0 !important; /* Fixes original 300px top margin */
+        padding: 0 !important;
         line-height: 1.2 !important;
         font-size: 42px !important;
         text-shadow: none !important;
       }
-      .rsABlock p {
+      #hero-slider .rsABlock p {
         color: #cbd5e1 !important;
         font-size: 18px !important;
+        margin: 0 !important;
         line-height: 1.6 !important;
         text-shadow: none !important;
       }
       .rsImg {
-        filter: brightness(0.7) !important; /* Make images slightly darker to pop the text */
+        filter: brightness(0.7) !important;
         object-fit: cover !important;
       }
       #intro-panel {
