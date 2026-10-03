@@ -1,0 +1,185 @@
+{
+  "id": 463,
+  "date": "2016-07-08T13:25:09",
+  "date_gmt": "2016-07-08T12:25:09",
+  "guid": { "rendered": "http://woodwardlawson.com/?p=463" },
+  "modified": "2018-02-13T11:40:32",
+  "modified_gmt": "2018-02-13T11:40:32",
+  "slug": "where-theres-smoke",
+  "status": "publish",
+  "type": "post",
+  "link": "https://woodwardlawson.com/where-theres-smoke/",
+  "title": { "rendered": "Where There&#8217;s Smoke\u2026" },
+  "content": {
+    "rendered": "<p>Imagine the situation. You have a fire at your premises. The Fire Brigade come out quickly and put it out. They do a visual inspection to satisfy themselves that it is extinguished. They go away. The fire re-ignites. Further fire damage is caused before the Fire Brigade can put it out for the second time. What do you do? Well, it&#8217;s obvious that you sue the Fire Brigade \u2013\u00a0apparently on the basis that (1) once they had conducted their visual inspection and before leaving, they should also have used a thermal imaging camera to locate any &#8220;questionable areas&#8221; in the smouldering debris, and (2) the Fire Brigade, instead of having their manpower available for any other emergency, should have maintained a regular check on your premises to make sure that the fire was truly extinguished. Doubtless, you might infer a certain amount of dryness in that last sentence!</p>\n<p>In a recent case, Strathclyde Fire Brigade was taken to court by the farm of A J Allan (Blairmyle) Ltd in relation to a fire at a farmhouse where such a situation developed, and those arguments were then advanced at the Court of Session. The Inner House rejected the arguments on the basis that the Fire Brigade had not made matters worse or inflicted any fresh injury when they arrived at and dealt with the fire. It would not be fair to impose the duty and standards of care on the Fire Brigade claimed by the Pursuers in this action. The only duty of care which the Fire Brigade had to the public was to take reasonable care not to add to the damage which the owners of the premises would have suffered if the Fire Brigade had done nothing at all.</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Imagine the situation. You have a fire at your premises. The Fire Brigade come out quickly and put it out. They do a visual inspection to satisfy themselves that it is extinguished. They go away. The fire re-ignites. Further fire damage is caused before the Fire Brigade can put it out for the second time&#8230;.</p>\n",
+    "protected": false
+  },
+  "author": 2,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [1],
+  "tags": [],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.2.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Where There&#039;s Smoke\u2026 - Colaru Law Chambers</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://woodwardlawson.com/where-theres-smoke/\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Where There&#039;s Smoke\u2026 - Colaru Law Chambers\" />\n<meta property=\"og:description\" content=\"Imagine the situation. You have a fire at your premises. The Fire Brigade come out quickly and put it out. They do a visual inspection to satisfy themselves that it is extinguished. They go away. The fire re-ignites. Further fire damage is caused before the Fire Brigade can put it out for the second time....\" />\n<meta property=\"og:url\" content=\"https://woodwardlawson.com/where-theres-smoke/\" />\n<meta property=\"og:site_name\" content=\"Colaru Law Chambers\" />\n<meta property=\"article:published_time\" content=\"2016-07-08T12:25:09+00:00\" />\n<meta property=\"article:modified_time\" content=\"2018-02-13T11:40:32+00:00\" />\n<meta name=\"author\" content=\"Phil Lawson\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"Phil Lawson\" />\n\t<meta name=\"twitter:label2\" content=\"Estimated reading time\" />\n\t<meta name=\"twitter:data2\" content=\"1 minute\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://woodwardlawson.com/where-theres-smoke/\",\"url\":\"https://woodwardlawson.com/where-theres-smoke/\",\"name\":\"Where There's Smoke\u2026 - Colaru Law Chambers\",\"isPartOf\":{\"@id\":\"https://woodwardlawson.com/#website\"},\"datePublished\":\"2016-07-08T12:25:09+00:00\",\"dateModified\":\"2018-02-13T11:40:32+00:00\",\"author\":{\"@id\":\"https://woodwardlawson.com/#/schema/person/e9ddb342849a6296cfa857c852bb8f73\"},\"breadcrumb\":{\"@id\":\"https://woodwardlawson.com/where-theres-smoke/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://woodwardlawson.com/where-theres-smoke/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://woodwardlawson.com/where-theres-smoke/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://woodwardlawson.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Where There&#8217;s Smoke\u2026\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://woodwardlawson.com/#website\",\"url\":\"https://woodwardlawson.com/\",\"name\":\"Colaru Law Chambers\",\"description\":\"We are court solicitors based in Aberdeen Scotland\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://woodwardlawson.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"Person\",\"@id\":\"https://woodwardlawson.com/#/schema/person/e9ddb342849a6296cfa857c852bb8f73\",\"name\":\"Phil Lawson\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://woodwardlawson.com/#/schema/person/image/\",\"url\":\"https://secure.gravatar.com/avatar/01193ba0c450ac06967870bcad131581?s=96&d=mm&r=g\",\"contentUrl\":\"https://secure.gravatar.com/avatar/01193ba0c450ac06967870bcad131581?s=96&d=mm&r=g\",\"caption\":\"Phil Lawson\"},\"url\":\"https://woodwardlawson.com/author/phil-lawson/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Where There's Smoke\u2026 - Colaru Law Chambers",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://woodwardlawson.com/where-theres-smoke/",
+    "og_locale": "en_GB",
+    "og_type": "article",
+    "og_title": "Where There's Smoke\u2026 - Colaru Law Chambers",
+    "og_description": "Imagine the situation. You have a fire at your premises. The Fire Brigade come out quickly and put it out. They do a visual inspection to satisfy themselves that it is extinguished. They go away. The fire re-ignites. Further fire damage is caused before the Fire Brigade can put it out for the second time....",
+    "og_url": "https://woodwardlawson.com/where-theres-smoke/",
+    "og_site_name": "Colaru Law Chambers",
+    "article_published_time": "2016-07-08T12:25:09+00:00",
+    "article_modified_time": "2018-02-13T11:40:32+00:00",
+    "author": "Phil Lawson",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "Written by": "Phil Lawson",
+      "Estimated reading time": "1 minute"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://woodwardlawson.com/where-theres-smoke/",
+          "url": "https://woodwardlawson.com/where-theres-smoke/",
+          "name": "Where There's Smoke\u2026 - Colaru Law Chambers",
+          "isPartOf": { "@id": "https://woodwardlawson.com/#website" },
+          "datePublished": "2016-07-08T12:25:09+00:00",
+          "dateModified": "2018-02-13T11:40:32+00:00",
+          "author": {
+            "@id": "https://woodwardlawson.com/#/schema/person/e9ddb342849a6296cfa857c852bb8f73"
+          },
+          "breadcrumb": {
+            "@id": "https://woodwardlawson.com/where-theres-smoke/#breadcrumb"
+          },
+          "inLanguage": "en-GB",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": ["https://woodwardlawson.com/where-theres-smoke/"]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://woodwardlawson.com/where-theres-smoke/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://woodwardlawson.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Where There&#8217;s Smoke\u2026"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://woodwardlawson.com/#website",
+          "url": "https://woodwardlawson.com/",
+          "name": "Colaru Law Chambers",
+          "description": "We are court solicitors based in Aberdeen Scotland",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://woodwardlawson.com/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-GB"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://woodwardlawson.com/#/schema/person/e9ddb342849a6296cfa857c852bb8f73",
+          "name": "Phil Lawson",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "en-GB",
+            "@id": "https://woodwardlawson.com/#/schema/person/image/",
+            "url": "https://secure.gravatar.com/avatar/01193ba0c450ac06967870bcad131581?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/01193ba0c450ac06967870bcad131581?s=96&d=mm&r=g",
+            "caption": "Phil Lawson"
+          },
+          "url": "https://woodwardlawson.com/author/phil-lawson/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [{ "href": "https://woodwardlawson.com/wp-json/wp/v2/posts/463" }],
+    "collection": [
+      { "href": "https://woodwardlawson.com/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "https://woodwardlawson.com/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://woodwardlawson.com/wp-json/wp/v2/users/2"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://woodwardlawson.com/wp-json/wp/v2/comments?post=463"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 4,
+        "href": "https://woodwardlawson.com/wp-json/wp/v2/posts/463/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 488,
+        "href": "https://woodwardlawson.com/wp-json/wp/v2/posts/463/revisions/488"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://woodwardlawson.com/wp-json/wp/v2/media?parent=463" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://woodwardlawson.com/wp-json/wp/v2/categories?post=463"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://woodwardlawson.com/wp-json/wp/v2/tags?post=463"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": 136,
+  "date": "2015-10-22T15:11:02",
+  "date_gmt": "2015-10-22T14:11:02",
+  "guid": { "rendered": "http://woodwardlawson.bndry.co.uk/?page_id=136" },
+  "modified": "2021-08-15T16:33:54",
+  "modified_gmt": "2021-08-15T15:33:54",
+  "slug": "links-affiliates",
+  "status": "publish",
+  "type": "page",
+  "link": "https://woodwardlawson.com/links-affiliates/",
+  "title": { "rendered": "Links &#038; Affiliates" },
+  "content": { "rendered": "", "protected": false },
+  "excerpt": { "rendered": "", "protected": false },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 20,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.2.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Colaru Law Chambers \u00e2\u20ac\u201c Court Solicitors, Aberdeen</title>\n<meta name=\"description\" content=\"Some helpful links\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://woodwardlawson.com/links-affiliates/\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Colaru Law Chambers \u00e2\u20ac\u201c Court Solicitors, Aberdeen\" />\n<meta property=\"og:description\" content=\"Some helpful links\" />\n<meta property=\"og:url\" content=\"https://woodwardlawson.com/links-affiliates/\" />\n<meta property=\"og:site_name\" content=\"Colaru Law Chambers\" />\n<meta property=\"article:modified_time\" content=\"2021-08-15T15:33:54+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://woodwardlawson.com/links-affiliates/\",\"url\":\"https://woodwardlawson.com/links-affiliates/\",\"name\":\"Colaru Law Chambers \u00e2\u20ac\u201c Court Solicitors, Aberdeen\",\"isPartOf\":{\"@id\":\"https://woodwardlawson.com/#website\"},\"datePublished\":\"2015-10-22T14:11:02+00:00\",\"dateModified\":\"2021-08-15T15:33:54+00:00\",\"description\":\"Some helpful links\",\"breadcrumb\":{\"@id\":\"https://woodwardlawson.com/links-affiliates/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://woodwardlawson.com/links-affiliates/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://woodwardlawson.com/links-affiliates/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://woodwardlawson.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Links &#038; Affiliates\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://woodwardlawson.com/#website\",\"url\":\"https://woodwardlawson.com/\",\"name\":\"Colaru Law Chambers\",\"description\":\"We are court solicitors based in Aberdeen Scotland\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://woodwardlawson.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Colaru Law Chambers \u00e2\u20ac\u201c Court Solicitors, Aberdeen",
+    "description": "Some helpful links",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://woodwardlawson.com/links-affiliates/",
+    "og_locale": "en_GB",
+    "og_type": "article",
+    "og_title": "Colaru Law Chambers \u00e2\u20ac\u201c Court Solicitors, Aberdeen",
+    "og_description": "Some helpful links",
+    "og_url": "https://woodwardlawson.com/links-affiliates/",
+    "og_site_name": "Colaru Law Chambers",
+    "article_modified_time": "2021-08-15T15:33:54+00:00",
+    "twitter_card": "summary_large_image",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://woodwardlawson.com/links-affiliates/",
+          "url": "https://woodwardlawson.com/links-affiliates/",
+          "name": "Colaru Law Chambers \u00e2\u20ac\u201c Court Solicitors, Aberdeen",
+          "isPartOf": { "@id": "https://woodwardlawson.com/#website" },
+          "datePublished": "2015-10-22T14:11:02+00:00",
+          "dateModified": "2021-08-15T15:33:54+00:00",
+          "description": "Some helpful links",
+          "breadcrumb": {
+            "@id": "https://woodwardlawson.com/links-affiliates/#breadcrumb"
+          },
+          "inLanguage": "en-GB",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": ["https://woodwardlawson.com/links-affiliates/"]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://woodwardlawson.com/links-affiliates/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://woodwardlawson.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Links &#038; Affiliates"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://woodwardlawson.com/#website",
+          "url": "https://woodwardlawson.com/",
+          "name": "Colaru Law Chambers",
+          "description": "We are court solicitors based in Aberdeen Scotland",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://woodwardlawson.com/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-GB"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [{ "href": "https://woodwardlawson.com/wp-json/wp/v2/pages/136" }],
+    "collection": [
+      { "href": "https://woodwardlawson.com/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      { "href": "https://woodwardlawson.com/wp-json/wp/v2/types/page" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://woodwardlawson.com/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://woodwardlawson.com/wp-json/wp/v2/comments?post=136"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 20,
+        "href": "https://woodwardlawson.com/wp-json/wp/v2/pages/136/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 581,
+        "href": "https://woodwardlawson.com/wp-json/wp/v2/pages/136/revisions/581"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://woodwardlawson.com/wp-json/wp/v2/media?parent=136" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

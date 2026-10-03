@@ -1,0 +1,142 @@
+{
+  "id": 11,
+  "date": "2015-10-13T15:07:49",
+  "date_gmt": "2015-10-13T14:07:49",
+  "guid": {
+    "rendered": "http://woodwardlawson.bndry.co.uk/woodward-lawson/?page_id=11"
+  },
+  "modified": "2021-08-13T17:15:27",
+  "modified_gmt": "2021-08-13T16:15:27",
+  "slug": "the-people",
+  "status": "publish",
+  "type": "page",
+  "link": "https://woodwardlawson.com/the-people/",
+  "title": { "rendered": "The People" },
+  "content": { "rendered": "", "protected": false },
+  "excerpt": { "rendered": "", "protected": false },
+  "author": 1,
+  "featured_media": 0,
+  "parent": 0,
+  "menu_order": 1,
+  "comment_status": "closed",
+  "ping_status": "closed",
+  "template": "",
+  "meta": [],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.2.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>We are Colaru Law Chambers Court Solicitors, Aberdeen</title>\n<meta name=\"description\" content=\"Looking for a Court lawyer covering Aberdeen, Peterhead, Elgin and Banff or Court of Session in Edinburgh? Ian Woodward-Nutt and Philip Lawson can assist\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://woodwardlawson.com/the-people/\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"We are Colaru Law Chambers Court Solicitors, Aberdeen\" />\n<meta property=\"og:description\" content=\"Looking for a Court lawyer covering Aberdeen, Peterhead, Elgin and Banff or Court of Session in Edinburgh? Ian Woodward-Nutt and Philip Lawson can assist\" />\n<meta property=\"og:url\" content=\"https://woodwardlawson.com/the-people/\" />\n<meta property=\"og:site_name\" content=\"Colaru Law Chambers\" />\n<meta property=\"article:modified_time\" content=\"2021-08-13T16:15:27+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://woodwardlawson.com/the-people/\",\"url\":\"https://woodwardlawson.com/the-people/\",\"name\":\"We are Colaru Law Chambers Court Solicitors, Aberdeen\",\"isPartOf\":{\"@id\":\"https://woodwardlawson.com/#website\"},\"datePublished\":\"2015-10-13T14:07:49+00:00\",\"dateModified\":\"2021-08-13T16:15:27+00:00\",\"description\":\"Looking for a Court lawyer covering Aberdeen, Peterhead, Elgin and Banff or Court of Session in Edinburgh? Ian Woodward-Nutt and Philip Lawson can assist\",\"breadcrumb\":{\"@id\":\"https://woodwardlawson.com/the-people/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://woodwardlawson.com/the-people/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://woodwardlawson.com/the-people/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://woodwardlawson.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"The People\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://woodwardlawson.com/#website\",\"url\":\"https://woodwardlawson.com/\",\"name\":\"Colaru Law Chambers\",\"description\":\"We are court solicitors based in Aberdeen Scotland\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://woodwardlawson.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "We are Colaru Law Chambers Court Solicitors, Aberdeen",
+    "description": "Looking for a Court lawyer covering Aberdeen, Peterhead, Elgin and Banff or Court of Session in Edinburgh? Ian Woodward-Nutt and Philip Lawson can assist",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://woodwardlawson.com/the-people/",
+    "og_locale": "en_GB",
+    "og_type": "article",
+    "og_title": "We are Colaru Law Chambers Court Solicitors, Aberdeen",
+    "og_description": "Looking for a Court lawyer covering Aberdeen, Peterhead, Elgin and Banff or Court of Session in Edinburgh? Ian Woodward-Nutt and Philip Lawson can assist",
+    "og_url": "https://woodwardlawson.com/the-people/",
+    "og_site_name": "Colaru Law Chambers",
+    "article_modified_time": "2021-08-13T16:15:27+00:00",
+    "twitter_card": "summary_large_image",
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://woodwardlawson.com/the-people/",
+          "url": "https://woodwardlawson.com/the-people/",
+          "name": "We are Colaru Law Chambers Court Solicitors, Aberdeen",
+          "isPartOf": { "@id": "https://woodwardlawson.com/#website" },
+          "datePublished": "2015-10-13T14:07:49+00:00",
+          "dateModified": "2021-08-13T16:15:27+00:00",
+          "description": "Looking for a Court lawyer covering Aberdeen, Peterhead, Elgin and Banff or Court of Session in Edinburgh? Ian Woodward-Nutt and Philip Lawson can assist",
+          "breadcrumb": {
+            "@id": "https://woodwardlawson.com/the-people/#breadcrumb"
+          },
+          "inLanguage": "en-GB",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": ["https://woodwardlawson.com/the-people/"]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://woodwardlawson.com/the-people/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://woodwardlawson.com/"
+            },
+            { "@type": "ListItem", "position": 2, "name": "The People" }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://woodwardlawson.com/#website",
+          "url": "https://woodwardlawson.com/",
+          "name": "Colaru Law Chambers",
+          "description": "We are court solicitors based in Aberdeen Scotland",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://woodwardlawson.com/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-GB"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [{ "href": "https://woodwardlawson.com/wp-json/wp/v2/pages/11" }],
+    "collection": [
+      { "href": "https://woodwardlawson.com/wp-json/wp/v2/pages" }
+    ],
+    "about": [
+      { "href": "https://woodwardlawson.com/wp-json/wp/v2/types/page" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://woodwardlawson.com/wp-json/wp/v2/users/1"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://woodwardlawson.com/wp-json/wp/v2/comments?post=11"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 39,
+        "href": "https://woodwardlawson.com/wp-json/wp/v2/pages/11/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 560,
+        "href": "https://woodwardlawson.com/wp-json/wp/v2/pages/11/revisions/560"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://woodwardlawson.com/wp-json/wp/v2/media?parent=11" }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}

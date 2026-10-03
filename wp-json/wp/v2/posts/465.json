@@ -1,0 +1,189 @@
+{
+  "id": 465,
+  "date": "2016-07-08T13:37:23",
+  "date_gmt": "2016-07-08T12:37:23",
+  "guid": { "rendered": "http://woodwardlawson.com/?p=465" },
+  "modified": "2018-02-13T11:38:27",
+  "modified_gmt": "2018-02-13T11:38:27",
+  "slug": "citizen-journalism-sometimes-its-just-not-cricket",
+  "status": "publish",
+  "type": "post",
+  "link": "https://woodwardlawson.com/citizen-journalism-sometimes-its-just-not-cricket/",
+  "title": {
+    "rendered": "Citizen Journalism&#8230;Sometimes, it&#8217;s just not Cricket"
+  },
+  "content": {
+    "rendered": "<p>In this ever more connected world, it is easy to convey images and information instantly at the click of a button all around the world. That is no bad thing, and citizen journalism often provides a viewpoint that gives another insight into what has actually happened. At the same time, there is a legal difference between filming an atrocity being committed because you happen to be in the wrong place at the wrong time and sitting as a spectator in a sports stadium with your camera aloft beaming live coverage of the event to the outside world. With the latter, you are getting into the world of intellectual property and the boundaries are still being drawn as new approaches occur.</p>\n<p>With that in mind, a recent English case provides some higher definition. In the case of England and Wales Cricket Board and Sky TV v Tixdag Ltd and Fanatix Ltd, the background was as follows. The ECB owned the copyright in broadcast of matches of cricket in England and Wales, and through lucrative licencing agreements, sold those broadcasting rights to TV companies like Sky. Last year, they discovered that a company called Fanatix and its customers, using the Fanatix app, were filming and uploading clips of matches on a &#8220;near-live&#8221;\u009d basis including the highlights and action replays of key moments. Fanatix had attempted to limit the risk of a successful claim against them in three ways. Firstly, they ensured that each clip was no more than 8 seconds. Secondly, they provided for the clips to be uploaded with reports and comments. Thirdly, they insisted on the attribution of the source of the clips.</p>\n<p>Under section 30 (2) of the Copyright, Designs and Patents Act, 1988, there is a defence against infringement of copyright based upon reporting current events\u2122 and Fanatix founded upon that to defend this action. The precise wording of the sub-section reads:&#8221;Fair dealing with a work (other than a photograph) for the purpose of reporting current events does not infringe any copyright in the work provided that it is accompanied by a sufficient acknowledgement.&#8221; The Court had some interesting arguments to consider and laid down some guidelines.</p>\n<p>Firstly, they had to consider a test of substantiality because it is fair to say that the odd clip of memorable moments (as you may regularly find on YouTube) is not going to fall foul of the legislation. Here, the Court had to &#8220;consider the degree of reproduction both quantitatively and qualitatively, having regard to the extent to which the reproduction exploits the investment by the broadcaster or producer.&#8221; The Court held that although 8 seconds was not a large section of play quantitatively, the fact that the majority of the clips constituted highlights of the matches, did exploit the copyright qualitatively <em>at first instance</em>. But, this was subject to whether it fell within the exception of section 30 (2) on reporting current events.</p>\n<p>Secondly, looking more closely at the effect of section 30 (2), the Court agreed with Fanatix that a cricket match was a \u00e2\u20ac\u0153current event\u00e2\u20ac\u009d and that users of the app could be classed as &#8220;reporters&#8221;. In so doing, the Court accepted that the sub-section was not limited to mainstream journalists. Members of the public were covered by it. The Court also considered that very little by way of commentary was actually required. So, these uploads <em>possibly</em> fell into the exception. So far, so good for Fanatix.</p>\n<p>However, after consideration of the app itself and Fanatix&#8217;s business plans, the Court took the view that their activities fell <em>outwith</em> the section 30 (2) exception. When those aspects were considered, the real purpose of the app was considered to be not reporting current events but sharing footage of sporting events. There was a critical distinction to be made. The clips here were not used in order to inform the audience about a current event but presented for consumption because of their intrinsic interest and value. Their use was commercial rather than informatory. Allowing users to add comments did not change this because they were not creating a report with their comments. It was infringing copyright and it would have a detrimental effect on the profits of ECB&#8217;s own service.</p>\n<p>&nbsp;</p>\n",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>In this ever more connected world, it is easy to convey images and information instantly at the click of a button all around the world. That is no bad thing, and citizen journalism often provides a viewpoint that gives another insight into what has actually happened. At the same time, there is a legal difference&#8230;</p>\n",
+    "protected": false
+  },
+  "author": 2,
+  "featured_media": 0,
+  "comment_status": "open",
+  "ping_status": "open",
+  "sticky": false,
+  "template": "",
+  "format": "standard",
+  "meta": [],
+  "categories": [1],
+  "tags": [],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.2.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Citizen Journalism...Sometimes, it&#039;s just not Cricket - Colaru Law Chambers</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://woodwardlawson.com/citizen-journalism-sometimes-its-just-not-cricket/\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Citizen Journalism...Sometimes, it&#039;s just not Cricket - Colaru Law Chambers\" />\n<meta property=\"og:description\" content=\"In this ever more connected world, it is easy to convey images and information instantly at the click of a button all around the world. That is no bad thing, and citizen journalism often provides a viewpoint that gives another insight into what has actually happened. At the same time, there is a legal difference...\" />\n<meta property=\"og:url\" content=\"https://woodwardlawson.com/citizen-journalism-sometimes-its-just-not-cricket/\" />\n<meta property=\"og:site_name\" content=\"Colaru Law Chambers\" />\n<meta property=\"article:published_time\" content=\"2016-07-08T12:37:23+00:00\" />\n<meta property=\"article:modified_time\" content=\"2018-02-13T11:38:27+00:00\" />\n<meta name=\"author\" content=\"Phil Lawson\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Written by\" />\n\t<meta name=\"twitter:data1\" content=\"Phil Lawson\" />\n\t<meta name=\"twitter:label2\" content=\"Estimated reading time\" />\n\t<meta name=\"twitter:data2\" content=\"3 minutes\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://woodwardlawson.com/citizen-journalism-sometimes-its-just-not-cricket/\",\"url\":\"https://woodwardlawson.com/citizen-journalism-sometimes-its-just-not-cricket/\",\"name\":\"Citizen Journalism...Sometimes, it's just not Cricket - Colaru Law Chambers\",\"isPartOf\":{\"@id\":\"https://woodwardlawson.com/#website\"},\"datePublished\":\"2016-07-08T12:37:23+00:00\",\"dateModified\":\"2018-02-13T11:38:27+00:00\",\"author\":{\"@id\":\"https://woodwardlawson.com/#/schema/person/e9ddb342849a6296cfa857c852bb8f73\"},\"breadcrumb\":{\"@id\":\"https://woodwardlawson.com/citizen-journalism-sometimes-its-just-not-cricket/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://woodwardlawson.com/citizen-journalism-sometimes-its-just-not-cricket/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://woodwardlawson.com/citizen-journalism-sometimes-its-just-not-cricket/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://woodwardlawson.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Citizen Journalism&#8230;Sometimes, it&#8217;s just not Cricket\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://woodwardlawson.com/#website\",\"url\":\"https://woodwardlawson.com/\",\"name\":\"Colaru Law Chambers\",\"description\":\"We are court solicitors based in Aberdeen Scotland\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://woodwardlawson.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"},{\"@type\":\"Person\",\"@id\":\"https://woodwardlawson.com/#/schema/person/e9ddb342849a6296cfa857c852bb8f73\",\"name\":\"Phil Lawson\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-GB\",\"@id\":\"https://woodwardlawson.com/#/schema/person/image/\",\"url\":\"https://secure.gravatar.com/avatar/01193ba0c450ac06967870bcad131581?s=96&d=mm&r=g\",\"contentUrl\":\"https://secure.gravatar.com/avatar/01193ba0c450ac06967870bcad131581?s=96&d=mm&r=g\",\"caption\":\"Phil Lawson\"},\"url\":\"https://woodwardlawson.com/author/phil-lawson/\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+    "title": "Citizen Journalism...Sometimes, it's just not Cricket - Colaru Law Chambers",
+    "robots": {
+      "index": "index",
+      "follow": "follow",
+      "max-snippet": "max-snippet:-1",
+      "max-image-preview": "max-image-preview:large",
+      "max-video-preview": "max-video-preview:-1"
+    },
+    "canonical": "https://woodwardlawson.com/citizen-journalism-sometimes-its-just-not-cricket/",
+    "og_locale": "en_GB",
+    "og_type": "article",
+    "og_title": "Citizen Journalism...Sometimes, it's just not Cricket - Colaru Law Chambers",
+    "og_description": "In this ever more connected world, it is easy to convey images and information instantly at the click of a button all around the world. That is no bad thing, and citizen journalism often provides a viewpoint that gives another insight into what has actually happened. At the same time, there is a legal difference...",
+    "og_url": "https://woodwardlawson.com/citizen-journalism-sometimes-its-just-not-cricket/",
+    "og_site_name": "Colaru Law Chambers",
+    "article_published_time": "2016-07-08T12:37:23+00:00",
+    "article_modified_time": "2018-02-13T11:38:27+00:00",
+    "author": "Phil Lawson",
+    "twitter_card": "summary_large_image",
+    "twitter_misc": {
+      "Written by": "Phil Lawson",
+      "Estimated reading time": "3 minutes"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebPage",
+          "@id": "https://woodwardlawson.com/citizen-journalism-sometimes-its-just-not-cricket/",
+          "url": "https://woodwardlawson.com/citizen-journalism-sometimes-its-just-not-cricket/",
+          "name": "Citizen Journalism...Sometimes, it's just not Cricket - Colaru Law Chambers",
+          "isPartOf": { "@id": "https://woodwardlawson.com/#website" },
+          "datePublished": "2016-07-08T12:37:23+00:00",
+          "dateModified": "2018-02-13T11:38:27+00:00",
+          "author": {
+            "@id": "https://woodwardlawson.com/#/schema/person/e9ddb342849a6296cfa857c852bb8f73"
+          },
+          "breadcrumb": {
+            "@id": "https://woodwardlawson.com/citizen-journalism-sometimes-its-just-not-cricket/#breadcrumb"
+          },
+          "inLanguage": "en-GB",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://woodwardlawson.com/citizen-journalism-sometimes-its-just-not-cricket/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://woodwardlawson.com/citizen-journalism-sometimes-its-just-not-cricket/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://woodwardlawson.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Citizen Journalism&#8230;Sometimes, it&#8217;s just not Cricket"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://woodwardlawson.com/#website",
+          "url": "https://woodwardlawson.com/",
+          "name": "Colaru Law Chambers",
+          "description": "We are court solicitors based in Aberdeen Scotland",
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://woodwardlawson.com/?s={search_term_string}"
+              },
+              "query-input": "required name=search_term_string"
+            }
+          ],
+          "inLanguage": "en-GB"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://woodwardlawson.com/#/schema/person/e9ddb342849a6296cfa857c852bb8f73",
+          "name": "Phil Lawson",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "en-GB",
+            "@id": "https://woodwardlawson.com/#/schema/person/image/",
+            "url": "https://secure.gravatar.com/avatar/01193ba0c450ac06967870bcad131581?s=96&d=mm&r=g",
+            "contentUrl": "https://secure.gravatar.com/avatar/01193ba0c450ac06967870bcad131581?s=96&d=mm&r=g",
+            "caption": "Phil Lawson"
+          },
+          "url": "https://woodwardlawson.com/author/phil-lawson/"
+        }
+      ]
+    }
+  },
+  "_links": {
+    "self": [{ "href": "https://woodwardlawson.com/wp-json/wp/v2/posts/465" }],
+    "collection": [
+      { "href": "https://woodwardlawson.com/wp-json/wp/v2/posts" }
+    ],
+    "about": [
+      { "href": "https://woodwardlawson.com/wp-json/wp/v2/types/post" }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "https://woodwardlawson.com/wp-json/wp/v2/users/2"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "https://woodwardlawson.com/wp-json/wp/v2/comments?post=465"
+      }
+    ],
+    "version-history": [
+      {
+        "count": 5,
+        "href": "https://woodwardlawson.com/wp-json/wp/v2/posts/465/revisions"
+      }
+    ],
+    "predecessor-version": [
+      {
+        "id": 486,
+        "href": "https://woodwardlawson.com/wp-json/wp/v2/posts/465/revisions/486"
+      }
+    ],
+    "wp:attachment": [
+      { "href": "https://woodwardlawson.com/wp-json/wp/v2/media?parent=465" }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "https://woodwardlawson.com/wp-json/wp/v2/categories?post=465"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "https://woodwardlawson.com/wp-json/wp/v2/tags?post=465"
+      }
+    ],
+    "curies": [
+      { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
+    ]
+  }
+}
