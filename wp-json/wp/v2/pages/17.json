@@ -3,14 +3,14 @@
   "date": "2015-10-13T15:08:20",
   "date_gmt": "2015-10-13T14:08:20",
   "guid": {
-    "rendered": "http://woodwardlawson.bndry.co.uk/woodward-lawson/?page_id=17"
+    "rendered": "http://kirktonchambers.bndry.co.uk/kirkton-chambers/?page_id=17"
   },
   "modified": "2022-01-02T23:57:35",
   "modified_gmt": "2022-01-02T23:57:35",
   "slug": "contact",
   "status": "publish",
   "type": "page",
-  "link": "https://woodwardlawson.com/contact/",
+  "link": "https://kirktonchambers.com/contact/",
   "title": { "rendered": "Contact" },
   "content": { "rendered": "", "protected": false },
   "excerpt": { "rendered": "", "protected": false },
@@ -23,9 +23,9 @@
   "template": "",
   "meta": [],
   "acf": [],
-  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.2.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Contact the team - Colaru Law Chambers Court Solicitors, Aberdeen</title>\n<meta name=\"description\" content=\"We are experienced Court Solicitors, based in Aberdeen, Scotland\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://woodwardlawson.com/contact/\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Contact the team - Colaru Law Chambers Court Solicitors, Aberdeen\" />\n<meta property=\"og:description\" content=\"We are experienced Court Solicitors, based in Aberdeen, Scotland\" />\n<meta property=\"og:url\" content=\"https://woodwardlawson.com/contact/\" />\n<meta property=\"og:site_name\" content=\"Colaru Law Chambers\" />\n<meta property=\"article:modified_time\" content=\"2022-01-02T23:57:35+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://woodwardlawson.com/contact/\",\"url\":\"https://woodwardlawson.com/contact/\",\"name\":\"Contact the team - Colaru Law Chambers Court Solicitors, Aberdeen\",\"isPartOf\":{\"@id\":\"https://woodwardlawson.com/#website\"},\"datePublished\":\"2015-10-13T14:08:20+00:00\",\"dateModified\":\"2022-01-02T23:57:35+00:00\",\"description\":\"We are experienced Court Solicitors, based in Aberdeen, Scotland\",\"breadcrumb\":{\"@id\":\"https://woodwardlawson.com/contact/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://woodwardlawson.com/contact/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://woodwardlawson.com/contact/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://woodwardlawson.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Contact\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://woodwardlawson.com/#website\",\"url\":\"https://woodwardlawson.com/\",\"name\":\"Colaru Law Chambers\",\"description\":\"We are court solicitors based in Aberdeen Scotland\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://woodwardlawson.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.2.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Contact the team - Kirkton Chambers Court Solicitors, Aberdeen</title>\n<meta name=\"description\" content=\"We are experienced Court Solicitors, based in Aberdeen, Scotland\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://kirktonchambers.com/contact/\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Contact the team - Kirkton Chambers Court Solicitors, Aberdeen\" />\n<meta property=\"og:description\" content=\"We are experienced Court Solicitors, based in Aberdeen, Scotland\" />\n<meta property=\"og:url\" content=\"https://kirktonchambers.com/contact/\" />\n<meta property=\"og:site_name\" content=\"Kirkton Chambers\" />\n<meta property=\"article:modified_time\" content=\"2022-01-02T23:57:35+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://kirktonchambers.com/contact/\",\"url\":\"https://kirktonchambers.com/contact/\",\"name\":\"Contact the team - Kirkton Chambers Court Solicitors, Aberdeen\",\"isPartOf\":{\"@id\":\"https://kirktonchambers.com/#website\"},\"datePublished\":\"2015-10-13T14:08:20+00:00\",\"dateModified\":\"2022-01-02T23:57:35+00:00\",\"description\":\"We are experienced Court Solicitors, based in Aberdeen, Scotland\",\"breadcrumb\":{\"@id\":\"https://kirktonchambers.com/contact/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://kirktonchambers.com/contact/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://kirktonchambers.com/contact/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://kirktonchambers.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Contact\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://kirktonchambers.com/#website\",\"url\":\"https://kirktonchambers.com/\",\"name\":\"Kirkton Chambers\",\"description\":\"We are court solicitors based in Aberdeen Scotland\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://kirktonchambers.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
   "yoast_head_json": {
-    "title": "Contact the team - Colaru Law Chambers Court Solicitors, Aberdeen",
+    "title": "Contact the team - Kirkton Chambers Court Solicitors, Aberdeen",
     "description": "We are experienced Court Solicitors, based in Aberdeen, Scotland",
     "robots": {
       "index": "index",
@@ -34,13 +34,13 @@
       "max-image-preview": "max-image-preview:large",
       "max-video-preview": "max-video-preview:-1"
     },
-    "canonical": "https://woodwardlawson.com/contact/",
+    "canonical": "https://kirktonchambers.com/contact/",
     "og_locale": "en_GB",
     "og_type": "article",
-    "og_title": "Contact the team - Colaru Law Chambers Court Solicitors, Aberdeen",
+    "og_title": "Contact the team - Kirkton Chambers Court Solicitors, Aberdeen",
     "og_description": "We are experienced Court Solicitors, based in Aberdeen, Scotland",
-    "og_url": "https://woodwardlawson.com/contact/",
-    "og_site_name": "Colaru Law Chambers",
+    "og_url": "https://kirktonchambers.com/contact/",
+    "og_site_name": "Kirkton Chambers",
     "article_modified_time": "2022-01-02T23:57:35+00:00",
     "twitter_card": "summary_large_image",
     "schema": {
@@ -48,49 +48,49 @@
       "@graph": [
         {
           "@type": "WebPage",
-          "@id": "https://woodwardlawson.com/contact/",
-          "url": "https://woodwardlawson.com/contact/",
-          "name": "Contact the team - Colaru Law Chambers Court Solicitors, Aberdeen",
-          "isPartOf": { "@id": "https://woodwardlawson.com/#website" },
+          "@id": "https://kirktonchambers.com/contact/",
+          "url": "https://kirktonchambers.com/contact/",
+          "name": "Contact the team - Kirkton Chambers Court Solicitors, Aberdeen",
+          "isPartOf": { "@id": "https://kirktonchambers.com/#website" },
           "datePublished": "2015-10-13T14:08:20+00:00",
           "dateModified": "2022-01-02T23:57:35+00:00",
           "description": "We are experienced Court Solicitors, based in Aberdeen, Scotland",
           "breadcrumb": {
-            "@id": "https://woodwardlawson.com/contact/#breadcrumb"
+            "@id": "https://kirktonchambers.com/contact/#breadcrumb"
           },
           "inLanguage": "en-GB",
           "potentialAction": [
             {
               "@type": "ReadAction",
-              "target": ["https://woodwardlawson.com/contact/"]
+              "target": ["https://kirktonchambers.com/contact/"]
             }
           ]
         },
         {
           "@type": "BreadcrumbList",
-          "@id": "https://woodwardlawson.com/contact/#breadcrumb",
+          "@id": "https://kirktonchambers.com/contact/#breadcrumb",
           "itemListElement": [
             {
               "@type": "ListItem",
               "position": 1,
               "name": "Home",
-              "item": "https://woodwardlawson.com/"
+              "item": "https://kirktonchambers.com/"
             },
             { "@type": "ListItem", "position": 2, "name": "Contact" }
           ]
         },
         {
           "@type": "WebSite",
-          "@id": "https://woodwardlawson.com/#website",
-          "url": "https://woodwardlawson.com/",
-          "name": "Colaru Law Chambers",
+          "@id": "https://kirktonchambers.com/#website",
+          "url": "https://kirktonchambers.com/",
+          "name": "Kirkton Chambers",
           "description": "We are court solicitors based in Aberdeen Scotland",
           "potentialAction": [
             {
               "@type": "SearchAction",
               "target": {
                 "@type": "EntryPoint",
-                "urlTemplate": "https://woodwardlawson.com/?s={search_term_string}"
+                "urlTemplate": "https://kirktonchambers.com/?s={search_term_string}"
               },
               "query-input": "required name=search_term_string"
             }
@@ -101,39 +101,39 @@
     }
   },
   "_links": {
-    "self": [{ "href": "https://woodwardlawson.com/wp-json/wp/v2/pages/17" }],
+    "self": [{ "href": "https://kirktonchambers.com/wp-json/wp/v2/pages/17" }],
     "collection": [
-      { "href": "https://woodwardlawson.com/wp-json/wp/v2/pages" }
+      { "href": "https://kirktonchambers.com/wp-json/wp/v2/pages" }
     ],
     "about": [
-      { "href": "https://woodwardlawson.com/wp-json/wp/v2/types/page" }
+      { "href": "https://kirktonchambers.com/wp-json/wp/v2/types/page" }
     ],
     "author": [
       {
         "embeddable": true,
-        "href": "https://woodwardlawson.com/wp-json/wp/v2/users/1"
+        "href": "https://kirktonchambers.com/wp-json/wp/v2/users/1"
       }
     ],
     "replies": [
       {
         "embeddable": true,
-        "href": "https://woodwardlawson.com/wp-json/wp/v2/comments?post=17"
+        "href": "https://kirktonchambers.com/wp-json/wp/v2/comments?post=17"
       }
     ],
     "version-history": [
       {
         "count": 12,
-        "href": "https://woodwardlawson.com/wp-json/wp/v2/pages/17/revisions"
+        "href": "https://kirktonchambers.com/wp-json/wp/v2/pages/17/revisions"
       }
     ],
     "predecessor-version": [
       {
         "id": 619,
-        "href": "https://woodwardlawson.com/wp-json/wp/v2/pages/17/revisions/619"
+        "href": "https://kirktonchambers.com/wp-json/wp/v2/pages/17/revisions/619"
       }
     ],
     "wp:attachment": [
-      { "href": "https://woodwardlawson.com/wp-json/wp/v2/media?parent=17" }
+      { "href": "https://kirktonchambers.com/wp-json/wp/v2/media?parent=17" }
     ],
     "curies": [
       { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }

@@ -3,14 +3,14 @@
   "date": "2015-09-22T15:42:37",
   "date_gmt": "2015-09-22T14:42:37",
   "guid": {
-    "rendered": "http://woodwardlawson.bndry.co.uk/woodward-lawson/?page_id=2"
+    "rendered": "http://kirktonchambers.bndry.co.uk/kirkton-chambers/?page_id=2"
   },
   "modified": "2018-08-08T10:09:36",
   "modified_gmt": "2018-08-08T09:09:36",
   "slug": "home",
   "status": "publish",
   "type": "page",
-  "link": "https://woodwardlawson.com/",
+  "link": "https://kirktonchambers.com/",
   "title": { "rendered": "Welcome" },
   "content": { "rendered": "", "protected": false },
   "excerpt": { "rendered": "", "protected": false },
@@ -23,9 +23,9 @@
   "template": "",
   "meta": [],
   "acf": [],
-  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.2.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Colaru Law Chambers - Court Solicitors, Aberdeen</title>\n<meta name=\"description\" content=\"We are experienced Civil Litigation and Criminal Defence Lawyers, based in Aberdeen. We represent clients in the Sheriff Court and the Court of Session.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://woodwardlawson.com/\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Colaru Law Chambers - Court Solicitors, Aberdeen\" />\n<meta property=\"og:description\" content=\"We are experienced Civil Litigation and Criminal Defence Lawyers, based in Aberdeen. We represent clients in the Sheriff Court and the Court of Session.\" />\n<meta property=\"og:url\" content=\"https://woodwardlawson.com/\" />\n<meta property=\"og:site_name\" content=\"Colaru Law Chambers\" />\n<meta property=\"article:modified_time\" content=\"2018-08-08T09:09:36+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://woodwardlawson.com/\",\"url\":\"https://woodwardlawson.com/\",\"name\":\"Colaru Law Chambers - Court Solicitors, Aberdeen\",\"isPartOf\":{\"@id\":\"https://woodwardlawson.com/#website\"},\"datePublished\":\"2015-09-22T14:42:37+00:00\",\"dateModified\":\"2018-08-08T09:09:36+00:00\",\"description\":\"We are experienced Civil Litigation and Criminal Defence Lawyers, based in Aberdeen. We represent clients in the Sheriff Court and the Court of Session.\",\"breadcrumb\":{\"@id\":\"https://woodwardlawson.com/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://woodwardlawson.com/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://woodwardlawson.com/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://woodwardlawson.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Welcome\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://woodwardlawson.com/#website\",\"url\":\"https://woodwardlawson.com/\",\"name\":\"Colaru Law Chambers\",\"description\":\"We are court solicitors based in Aberdeen Scotland\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://woodwardlawson.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v20.2.1 - https://yoast.com/wordpress/plugins/seo/ -->\n<title>Kirkton Chambers - Court Solicitors, Aberdeen</title>\n<meta name=\"description\" content=\"We are experienced Civil Litigation and Criminal Defence Lawyers, based in Aberdeen. We represent clients in the Sheriff Court and the Court of Session.\" />\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://kirktonchambers.com/\" />\n<meta property=\"og:locale\" content=\"en_GB\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Kirkton Chambers - Court Solicitors, Aberdeen\" />\n<meta property=\"og:description\" content=\"We are experienced Civil Litigation and Criminal Defence Lawyers, based in Aberdeen. We represent clients in the Sheriff Court and the Court of Session.\" />\n<meta property=\"og:url\" content=\"https://kirktonchambers.com/\" />\n<meta property=\"og:site_name\" content=\"Kirkton Chambers\" />\n<meta property=\"article:modified_time\" content=\"2018-08-08T09:09:36+00:00\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://kirktonchambers.com/\",\"url\":\"https://kirktonchambers.com/\",\"name\":\"Kirkton Chambers - Court Solicitors, Aberdeen\",\"isPartOf\":{\"@id\":\"https://kirktonchambers.com/#website\"},\"datePublished\":\"2015-09-22T14:42:37+00:00\",\"dateModified\":\"2018-08-08T09:09:36+00:00\",\"description\":\"We are experienced Civil Litigation and Criminal Defence Lawyers, based in Aberdeen. We represent clients in the Sheriff Court and the Court of Session.\",\"breadcrumb\":{\"@id\":\"https://kirktonchambers.com/#breadcrumb\"},\"inLanguage\":\"en-GB\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://kirktonchambers.com/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://kirktonchambers.com/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://kirktonchambers.com/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Welcome\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://kirktonchambers.com/#website\",\"url\":\"https://kirktonchambers.com/\",\"name\":\"Kirkton Chambers\",\"description\":\"We are court solicitors based in Aberdeen Scotland\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://kirktonchambers.com/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-GB\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
   "yoast_head_json": {
-    "title": "Colaru Law Chambers - Court Solicitors, Aberdeen",
+    "title": "Kirkton Chambers - Court Solicitors, Aberdeen",
     "description": "We are experienced Civil Litigation and Criminal Defence Lawyers, based in Aberdeen. We represent clients in the Sheriff Court and the Court of Session.",
     "robots": {
       "index": "index",
@@ -34,13 +34,13 @@
       "max-image-preview": "max-image-preview:large",
       "max-video-preview": "max-video-preview:-1"
     },
-    "canonical": "https://woodwardlawson.com/",
+    "canonical": "https://kirktonchambers.com/",
     "og_locale": "en_GB",
     "og_type": "article",
-    "og_title": "Colaru Law Chambers - Court Solicitors, Aberdeen",
+    "og_title": "Kirkton Chambers - Court Solicitors, Aberdeen",
     "og_description": "We are experienced Civil Litigation and Criminal Defence Lawyers, based in Aberdeen. We represent clients in the Sheriff Court and the Court of Session.",
-    "og_url": "https://woodwardlawson.com/",
-    "og_site_name": "Colaru Law Chambers",
+    "og_url": "https://kirktonchambers.com/",
+    "og_site_name": "Kirkton Chambers",
     "article_modified_time": "2018-08-08T09:09:36+00:00",
     "twitter_card": "summary_large_image",
     "schema": {
@@ -48,44 +48,44 @@
       "@graph": [
         {
           "@type": "WebPage",
-          "@id": "https://woodwardlawson.com/",
-          "url": "https://woodwardlawson.com/",
-          "name": "Colaru Law Chambers - Court Solicitors, Aberdeen",
-          "isPartOf": { "@id": "https://woodwardlawson.com/#website" },
+          "@id": "https://kirktonchambers.com/",
+          "url": "https://kirktonchambers.com/",
+          "name": "Kirkton Chambers - Court Solicitors, Aberdeen",
+          "isPartOf": { "@id": "https://kirktonchambers.com/#website" },
           "datePublished": "2015-09-22T14:42:37+00:00",
           "dateModified": "2018-08-08T09:09:36+00:00",
           "description": "We are experienced Civil Litigation and Criminal Defence Lawyers, based in Aberdeen. We represent clients in the Sheriff Court and the Court of Session.",
-          "breadcrumb": { "@id": "https://woodwardlawson.com/#breadcrumb" },
+          "breadcrumb": { "@id": "https://kirktonchambers.com/#breadcrumb" },
           "inLanguage": "en-GB",
           "potentialAction": [
-            { "@type": "ReadAction", "target": ["https://woodwardlawson.com/"] }
+            { "@type": "ReadAction", "target": ["https://kirktonchambers.com/"] }
           ]
         },
         {
           "@type": "BreadcrumbList",
-          "@id": "https://woodwardlawson.com/#breadcrumb",
+          "@id": "https://kirktonchambers.com/#breadcrumb",
           "itemListElement": [
             {
               "@type": "ListItem",
               "position": 1,
               "name": "Home",
-              "item": "https://woodwardlawson.com/"
+              "item": "https://kirktonchambers.com/"
             },
             { "@type": "ListItem", "position": 2, "name": "Welcome" }
           ]
         },
         {
           "@type": "WebSite",
-          "@id": "https://woodwardlawson.com/#website",
-          "url": "https://woodwardlawson.com/",
-          "name": "Colaru Law Chambers",
+          "@id": "https://kirktonchambers.com/#website",
+          "url": "https://kirktonchambers.com/",
+          "name": "Kirkton Chambers",
           "description": "We are court solicitors based in Aberdeen Scotland",
           "potentialAction": [
             {
               "@type": "SearchAction",
               "target": {
                 "@type": "EntryPoint",
-                "urlTemplate": "https://woodwardlawson.com/?s={search_term_string}"
+                "urlTemplate": "https://kirktonchambers.com/?s={search_term_string}"
               },
               "query-input": "required name=search_term_string"
             }
@@ -96,39 +96,39 @@
     }
   },
   "_links": {
-    "self": [{ "href": "https://woodwardlawson.com/wp-json/wp/v2/pages/2" }],
+    "self": [{ "href": "https://kirktonchambers.com/wp-json/wp/v2/pages/2" }],
     "collection": [
-      { "href": "https://woodwardlawson.com/wp-json/wp/v2/pages" }
+      { "href": "https://kirktonchambers.com/wp-json/wp/v2/pages" }
     ],
     "about": [
-      { "href": "https://woodwardlawson.com/wp-json/wp/v2/types/page" }
+      { "href": "https://kirktonchambers.com/wp-json/wp/v2/types/page" }
     ],
     "author": [
       {
         "embeddable": true,
-        "href": "https://woodwardlawson.com/wp-json/wp/v2/users/1"
+        "href": "https://kirktonchambers.com/wp-json/wp/v2/users/1"
       }
     ],
     "replies": [
       {
         "embeddable": true,
-        "href": "https://woodwardlawson.com/wp-json/wp/v2/comments?post=2"
+        "href": "https://kirktonchambers.com/wp-json/wp/v2/comments?post=2"
       }
     ],
     "version-history": [
       {
         "count": 7,
-        "href": "https://woodwardlawson.com/wp-json/wp/v2/pages/2/revisions"
+        "href": "https://kirktonchambers.com/wp-json/wp/v2/pages/2/revisions"
       }
     ],
     "predecessor-version": [
       {
         "id": 471,
-        "href": "https://woodwardlawson.com/wp-json/wp/v2/pages/2/revisions/471"
+        "href": "https://kirktonchambers.com/wp-json/wp/v2/pages/2/revisions/471"
       }
     ],
     "wp:attachment": [
-      { "href": "https://woodwardlawson.com/wp-json/wp/v2/media?parent=2" }
+      { "href": "https://kirktonchambers.com/wp-json/wp/v2/media?parent=2" }
     ],
     "curies": [
       { "name": "wp", "href": "https://api.w.org/{rel}", "templated": true }
